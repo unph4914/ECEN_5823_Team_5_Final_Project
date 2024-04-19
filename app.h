@@ -58,4 +58,6 @@ void app_init(void);
  *****************************************************************************/
 void app_process_action(void);
 
+
+static void delayApprox(int delay);
 #endif // APP_H
