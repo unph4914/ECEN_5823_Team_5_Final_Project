@@ -1,4 +1,2 @@
-# ECEN_5823_Team_5_Final_Project
-## **IoT-Embedded Firmware Final Project - EcoSensor System**
-
-
+# ecen5823-f22-assignments
+Starter code based on Gecko SDK 3.2.3
